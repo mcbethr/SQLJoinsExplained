@@ -61,5 +61,5 @@ insert into Beers (FratID,BeerName) Values (Null,'Natty Lite 12')
 ---List all Fratboys and all Beers listing 
 ---beer owners where appropriate
 --Select * from Fratboys
--FULL JOIN Beers 
+--FULL JOIN Beers 
 --ON beers.FratID = Fratboys.FratID
